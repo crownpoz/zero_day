@@ -1,1 +1,2 @@
-this is my first repo in vagrant
+#!/bin/bash
+setting up vagrant
